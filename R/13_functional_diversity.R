@@ -41,3 +41,5 @@ FuncDiv1 <- dbFD(x = gow, a = comm, messages = F)
 names(FuncDiv1)
 FuncDiv <- dbFD(x = traits, a = comm, messages = F)
 FuncDiv # here we see a whole lot of metrics of functional diversity, inlcude the rao thing above
+
+# after that we did a whole lot of phylogenetic tree construction that I didn't manage to follow
